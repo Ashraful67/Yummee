@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yummee/static/css/main.21a02848.css",
+    "main.js": "/Yummee/static/js/main.a4e5889b.js",
+    "index.html": "/Yummee/index.html",
+    "main.21a02848.css.map": "/Yummee/static/css/main.21a02848.css.map",
+    "main.a4e5889b.js.map": "/Yummee/static/js/main.a4e5889b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a02848.css",
+    "static/js/main.a4e5889b.js"
+  ]
+}
